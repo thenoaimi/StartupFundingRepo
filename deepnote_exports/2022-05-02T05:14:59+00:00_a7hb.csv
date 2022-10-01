@@ -1,0 +1,20 @@
+feature names,coefficients
+investors_round_index,0.6899210847505768
+investor_country_round_index,0.0972766055689617
+rounds_index,0.15482235493590663
+company_country_round_index,-0.04444975665869601
+time_since_first_investment,-0.0873414932795489
+time_since_last_investment,-0.12143398375685227
+company_age,0.06440327054281685
+avg_time_between_rounds,0.020864173204061774
+Communication_Services_round_index,-0.01450982716085403
+Consumer_Discretionary_round_index,-0.00521363026919669
+Consumer_Staples_round_index,0.0176607987359678
+Energy_round_index,-0.0027531768286697647
+Financials_round_index,0.01213869471100869
+Health_Care_round_index,0.034514243762459644
+Industrials_round_index,0.010494551543622879
+Information_Technology_round_index,0.028918805827972856
+Materials_round_index,0.0230944035569007
+Real_Estate_round_index,-0.012522733564787374
+Utilities_round_index,-0.03337277377340652

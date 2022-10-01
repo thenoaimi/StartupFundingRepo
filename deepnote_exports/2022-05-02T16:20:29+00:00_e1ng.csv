@@ -1,0 +1,292 @@
+x-axis,value,Transformation,Category
+angel,3805.0,Count,Funding Type
+convertible_note,1139.0,Count,Funding Type
+debt_financing,5294.0,Count,Funding Type
+equity_crowdfunding,937.0,Count,Funding Type
+grant,1649.0,Count,Funding Type
+non_equity_assistance,60.0,Count,Funding Type
+post_ipo_debt,116.0,Count,Funding Type
+post_ipo_equity,476.0,Count,Funding Type
+private_equity,1506.0,Count,Funding Type
+product_crowdfunding,312.0,Count,Funding Type
+secondary_market,21.0,Count,Funding Type
+seed,18645.0,Count,Funding Type
+undisclosed,1248.0,Count,Funding Type
+venture,17540.0,Count,Funding Type
+venture A,10051.0,Count,Funding Type
+venture B,6351.0,Count,Funding Type
+venture C,3344.0,Count,Funding Type
+venture D,1502.0,Count,Funding Type
+venture E,609.0,Count,Funding Type
+venture F,202.0,Count,Funding Type
+venture G,55.0,Count,Funding Type
+venture H,7.0,Count,Funding Type
+angel,3253147467.0,Sum,Funding Type
+convertible_note,1596223708.0,Sum,Funding Type
+debt_financing,98803140325.0,Sum,Funding Type
+equity_crowdfunding,474499702.0,Sum,Funding Type
+grant,6953851124.0,Sum,Funding Type
+non_equity_assistance,28656935.0,Sum,Funding Type
+post_ipo_debt,18575570222.0,Sum,Funding Type
+post_ipo_equity,42369351607.0,Sum,Funding Type
+private_equity,111176427322.0,Sum,Funding Type
+product_crowdfunding,405790308.0,Sum,Funding Type
+secondary_market,2222042718.0,Sum,Funding Type
+seed,13335481116.0,Sum,Funding Type
+undisclosed,22055570593.0,Sum,Funding Type
+venture,142026060435.0,Sum,Funding Type
+venture A,70734001425.0,Sum,Funding Type
+venture B,94289597695.0,Sum,Funding Type
+venture C,71092544673.0,Sum,Funding Type
+venture D,45545070811.0,Sum,Funding Type
+venture E,28151735043.0,Sum,Funding Type
+venture F,10579926559.0,Sum,Funding Type
+venture G,3858242243.0,Sum,Funding Type
+venture H,963500000.0,Sum,Funding Type
+angel,3253147467.0,Average,Funding Type
+convertible_note,1596223708.0,Average,Funding Type
+debt_financing,98803140325.0,Average,Funding Type
+equity_crowdfunding,474499702.0,Average,Funding Type
+grant,6953851124.0,Average,Funding Type
+non_equity_assistance,28656935.0,Average,Funding Type
+post_ipo_debt,18575570222.0,Average,Funding Type
+post_ipo_equity,42369351607.0,Average,Funding Type
+private_equity,111176427322.0,Average,Funding Type
+product_crowdfunding,405790308.0,Average,Funding Type
+secondary_market,2222042718.0,Average,Funding Type
+seed,13335481116.0,Average,Funding Type
+undisclosed,22055570593.0,Average,Funding Type
+venture,142026060435.0,Average,Funding Type
+venture A,70734001425.0,Average,Funding Type
+venture B,94289597695.0,Average,Funding Type
+venture C,71092544673.0,Average,Funding Type
+venture D,45545070811.0,Average,Funding Type
+venture E,28151735043.0,Average,Funding Type
+venture F,10579926559.0,Average,Funding Type
+venture G,3858242243.0,Average,Funding Type
+venture H,963500000.0,Average,Funding Type
+ARG,150.0,Count,Company Country
+AUS,393.0,Count,Company Country
+AUT,111.0,Count,Company Country
+BEL,163.0,Count,Company Country
+BRA,342.0,Count,Company Country
+CAN,1551.0,Count,Company Country
+CHE,268.0,Count,Company Country
+CHL,266.0,Count,Company Country
+CHN,1229.0,Count,Company Country
+DEU,869.0,Count,Company Country
+DNK,248.0,Count,Company Country
+ESP,602.0,Count,Company Country
+FIN,231.0,Count,Company Country
+FRA,913.0,Count,Company Country
+GBR,2974.0,Count,Company Country
+HKG,164.0,Count,Company Country
+IND,1260.0,Count,Company Country
+IRL,350.0,Count,Company Country
+ISR,771.0,Count,Company Country
+ITA,331.0,Count,Company Country
+JPN,328.0,Count,Company Country
+KOR,284.0,Count,Company Country
+MEX,115.0,Count,Company Country
+NLD,374.0,Count,Company Country
+NOR,118.0,Count,Company Country
+POL,112.0,Count,Company Country
+RUS,360.0,Count,Company Country
+SGP,370.0,Count,Company Country
+SWE,357.0,Count,Company Country
+TUR,142.0,Count,Company Country
+USA,30067.0,Count,Company Country
+ARG,313536986.0,Sum,Company Country
+AUS,2668638987.0478063,Sum,Company Country
+AUT,744941254.087382,Sum,Company Country
+BEL,1515716651.6881983,Sum,Company Country
+BRA,2680570239.5783753,Sum,Company Country
+CAN,14556735439.907534,Sum,Company Country
+CHE,3806571618.280721,Sum,Company Country
+CHL,54596651.0,Sum,Company Country
+CHN,58370972633.52442,Sum,Company Country
+DEU,8601504428.737595,Sum,Company Country
+DNK,1426823698.2806044,Sum,Company Country
+ESP,3383620918.8362203,Sum,Company Country
+FIN,1148650223.1157067,Sum,Company Country
+FRA,7280995927.517009,Sum,Company Country
+GBR,26850719584.500576,Sum,Company Country
+HKG,1309391565.0,Sum,Company Country
+IND,21417914890.127594,Sum,Company Country
+IRL,1981676045.8006792,Sum,Company Country
+ISR,7554743532.483116,Sum,Company Country
+ITA,1052416570.5783556,Sum,Company Country
+JPN,3296355102.3658667,Sum,Company Country
+KOR,2655254276.262295,Sum,Company Country
+MEX,696833177.0722892,Sum,Company Country
+NLD,5350469909.73702,Sum,Company Country
+NOR,1329798849.983816,Sum,Company Country
+POL,190262516.6564762,Sum,Company Country
+RUS,10085167405.082172,Sum,Company Country
+SGP,3361411581.1884403,Sum,Company Country
+SWE,2324297971.1624436,Sum,Company Country
+TUR,708402081.0,Sum,Company Country
+USA,541081208252.49554,Sum,Company Country
+ARG,2090246.5733333332,Average,Company Country
+AUS,6790429.992488056,Average,Company Country
+AUT,6711182.469255693,Average,Company Country
+BEL,9298875.163731279,Average,Company Country
+BRA,7837924.677129752,Average,Company Country
+CAN,9385387.130823683,Average,Company Country
+CHE,14203625.441345975,Average,Company Country
+CHL,205250.56766917295,Average,Company Country
+CHN,47494688.8800036,Average,Company Country
+DEU,9898163.899582963,Average,Company Country
+DNK,5753321.364034695,Average,Company Country
+ESP,5620632.755541895,Average,Company Country
+FIN,4972511.788379682,Average,Company Country
+FRA,7974803.8636549935,Average,Company Country
+GBR,9028486.746637719,Average,Company Country
+HKG,7984094.908536585,Average,Company Country
+IND,16998345.150894918,Average,Company Country
+IRL,5661931.559430512,Average,Company Country
+ISR,9798629.743817272,Average,Company Country
+ITA,3179506.255523733,Average,Company Country
+JPN,10049863.116969105,Average,Company Country
+KOR,9349486.888247516,Average,Company Country
+MEX,6059418.931063385,Average,Company Country
+NLD,14306069.27737171,Average,Company Country
+NOR,11269481.779523864,Average,Company Country
+POL,1698772.470147109,Average,Company Country
+RUS,28014353.903006036,Average,Company Country
+SGP,9084896.165374164,Average,Company Country
+SWE,6510638.574684716,Average,Company Country
+TUR,4988747.049295775,Average,Company Country
+USA,17995849.544433948,Average,Company Country
+ARG,195.0,Count,Investor Country
+AUS,493.0,Count,Investor Country
+BEL,350.0,Count,Investor Country
+BGR,205.0,Count,Investor Country
+BRA,122.0,Count,Investor Country
+CAN,2114.0,Count,Investor Country
+CHE,1122.0,Count,Investor Country
+CHL,637.0,Count,Investor Country
+CHN,1525.0,Count,Investor Country
+DEU,1788.0,Count,Investor Country
+DNK,431.0,Count,Investor Country
+ESP,1442.0,Count,Investor Country
+EST,124.0,Count,Investor Country
+FIN,336.0,Count,Investor Country
+FRA,2228.0,Count,Investor Country
+GBR,5307.0,Count,Investor Country
+HKG,622.0,Count,Investor Country
+IND,677.0,Count,Investor Country
+IRL,513.0,Count,Investor Country
+ISR,1688.0,Count,Investor Country
+ITA,377.0,Count,Investor Country
+JPN,907.0,Count,Investor Country
+KOR,428.0,Count,Investor Country
+LUX,163.0,Count,Investor Country
+MEX,139.0,Count,Investor Country
+MUS,107.0,Count,Investor Country
+NLD,437.0,Count,Investor Country
+NOR,166.0,Count,Investor Country
+PRT,118.0,Count,Investor Country
+RUS,419.0,Count,Investor Country
+SGP,535.0,Count,Investor Country
+SWE,555.0,Count,Investor Country
+TWN,137.0,Count,Investor Country
+USA,68050.0,Count,Investor Country
+ARG,313536986.0,Sum,Company Country
+AUS,2668638987.0478063,Sum,Company Country
+AUT,744941254.087382,Sum,Company Country
+BEL,1515716651.6881983,Sum,Company Country
+BRA,2680570239.5783753,Sum,Company Country
+CAN,14556735439.907534,Sum,Company Country
+CHE,3806571618.280721,Sum,Company Country
+CHL,54596651.0,Sum,Company Country
+CHN,58370972633.52442,Sum,Company Country
+DEU,8601504428.737595,Sum,Company Country
+DNK,1426823698.2806044,Sum,Company Country
+ESP,3383620918.8362203,Sum,Company Country
+FIN,1148650223.1157067,Sum,Company Country
+FRA,7280995927.517009,Sum,Company Country
+GBR,26850719584.500576,Sum,Company Country
+HKG,1309391565.0,Sum,Company Country
+IND,21417914890.127594,Sum,Company Country
+IRL,1981676045.8006792,Sum,Company Country
+ISR,7554743532.483116,Sum,Company Country
+ITA,1052416570.5783556,Sum,Company Country
+JPN,3296355102.3658667,Sum,Company Country
+KOR,2655254276.262295,Sum,Company Country
+MEX,696833177.0722892,Sum,Company Country
+NLD,5350469909.73702,Sum,Company Country
+NOR,1329798849.983816,Sum,Company Country
+POL,190262516.6564762,Sum,Company Country
+RUS,10085167405.082172,Sum,Company Country
+SGP,3361411581.1884403,Sum,Company Country
+SWE,2324297971.1624436,Sum,Company Country
+TUR,708402081.0,Sum,Company Country
+USA,541081208252.49554,Sum,Company Country
+ARG,381581.28042328043,Average,Investor Country
+AUS,2907590.327139814,Average,Investor Country
+BEL,4618936.586190762,Average,Investor Country
+BGR,131384.8510989685,Average,Investor Country
+BRA,4165862.572583958,Average,Investor Country
+CAN,4219309.7687187465,Average,Investor Country
+CHE,4971913.512690038,Average,Investor Country
+CHL,83693.23893962672,Average,Investor Country
+CHN,19666753.859359983,Average,Investor Country
+DEU,4284793.7743365215,Average,Investor Country
+DNK,4396893.678511015,Average,Investor Country
+ESP,865198.9469025778,Average,Investor Country
+EST,347847.28187742375,Average,Investor Country
+FIN,2127943.450198386,Average,Investor Country
+FRA,2856489.9634498823,Average,Investor Country
+GBR,3625670.6402841047,Average,Investor Country
+HKG,10606986.470909325,Average,Investor Country
+IND,3805817.4967885497,Average,Investor Country
+IRL,2788342.233918815,Average,Investor Country
+ISR,3130131.883813251,Average,Investor Country
+ITA,1990026.9079821983,Average,Investor Country
+JPN,5594820.013703805,Average,Investor Country
+KOR,2348938.8636564887,Average,Investor Country
+LUX,6439234.136652609,Average,Investor Country
+MEX,862797.0868928202,Average,Investor Country
+MUS,4975377.688918557,Average,Investor Country
+NLD,4406085.210367792,Average,Investor Country
+NOR,3993816.616590222,Average,Investor Country
+PRT,2129020.9011659855,Average,Investor Country
+RUS,10067345.047110332,Average,Investor Country
+SGP,8465980.39987397,Average,Investor Country
+SWE,3948817.635435992,Average,Investor Country
+TWN,6765342.169184427,Average,Investor Country
+USA,5310623.763509195,Average,Investor Country
+Communication Services,15580.0,Count,Sector
+Consumer Discretionary,17147.0,Count,Sector
+Consumer Staples,2154.0,Count,Sector
+Energy,3032.0,Count,Sector
+Financials,8840.0,Count,Sector
+Health Care,15282.0,Count,Sector
+Industrials,18095.0,Count,Sector
+Information Technology,39926.0,Count,Sector
+Materials,648.0,Count,Sector
+Real Estate,2130.0,Count,Sector
+Utilities,562.0,Count,Sector
+Communication Services,138912671856.0,Sum,Sector
+Consumer Discretionary,131950921987.0,Sum,Sector
+Consumer Staples,19999777804.0,Sum,Sector
+Energy,57873742409.0,Sum,Sector
+Financials,88060144629.0,Sum,Sector
+Health Care,160913913173.0,Sum,Sector
+Industrials,200253167432.0,Sum,Sector
+Information Technology,370200413774.0,Sum,Sector
+Materials,8858534363.0,Sum,Sector
+Real Estate,18258754965.0,Sum,Sector
+Utilities,11467476577.0,Sum,Sector
+Communication Services,8916089.336071886,Average,Sector
+Consumer Discretionary,7695277.423864232,Average,Sector
+Consumer Staples,9284947.91272052,Average,Sector
+Energy,19087645.913258575,Average,Sector
+Financials,9961554.822285067,Average,Sector
+Health Care,10529637.035270253,Average,Sector
+Industrials,11066768.026084553,Average,Sector
+Information Technology,9272163.847467816,Average,Sector
+Materials,13670577.720679013,Average,Sector
+Real Estate,8572185.429577464,Average,Sector
+Utilities,20404762.59252669,Average,Sector
